@@ -1,0 +1,293 @@
+name,name,team,battingStyle,bowlingStyle,playingRole
+RuturajGaikwad,Ruturaj Gaikwad,Super Kings,Right hand Bat,Right arm Offbreak,Batter
+FafduPlessis,Fafdu Plessis,Super Kings,Right hand Bat,Legbreak,Middle order Batter
+RobinUthappa,Robin Uthappa,Super Kings,Right hand Bat,Right arm Medium,Batter
+MoeenAli,Moeen Ali,Super Kings,Left hand Bat,Right arm Offbreak,Batting Allrounder
+ShubmanGill,Shubman Gill,KKR,Right hand Bat,Right arm Offbreak,Opening Batter
+VenkateshIyer,Venkatesh Iyer,KKR,Left hand Bat,Right arm Medium,Allrounder
+NitishRana,Nitish Rana,KKR,Left hand Bat,"Right arm Medium, Right arm Offbreak, Legbreak",Middle order Batter
+SunilNarine,Sunil Narine,KKR,Left hand Bat,Right arm Offbreak,Bowling Allrounder
+EoinMorgan,Eoin Morgan,KKR,Left hand Bat,Right arm Medium,Middle order Batter
+DineshKarthik,Dinesh Karthik,KKR,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter
+ShakibAlHasan,ShakibAlHasan,KKR,Left hand Bat,Slow Left arm Orthodox,Allrounder
+RahulTripathi,Rahul Tripathi,KKR,Right hand Bat,Right arm Medium,Top order Batter
+LockieFerguson,Lockie Ferguson,KKR,Right hand Bat,Right arm Fast,Bowler
+ShivamMavi,Shivam Mavi,KKR,Right hand Bat,Right arm Fast medium,Bowler
+VarunChakravarthy,Varun Chakravarthy,KKR,Right hand Bat,Legbreak Googly,Bowler
+DeepakChahar,Deepak Chahar,Super Kings,Right hand Bat,Right arm Medium,Bowler
+JoshHazlewood,Josh Hazlewood,Super Kings,Left hand Bat,Right arm Fast medium,Bowler
+ShardulThakur,Shardul Thakur,Super Kings,Right hand Bat,Right arm Medium,Bowler
+DwayneBravo,Dwayne Bravo,Super Kings,Right hand Bat,Right arm Medium,Allrounder
+RavindraJadeja,Ravindra Jadeja,Super Kings,Left hand Bat,Slow Left arm Orthodox,Allrounder
+PrithviShaw,Prithvi Shaw,Capitals,Right hand Bat,Right arm Offbreak,Opening Batter
+ShikharDhawan,Shikhar Dhawan,Capitals,Left hand Bat,Right arm Offbreak,Opening Batter
+MarcusStoinis,Marcus Stoinis,Capitals,Right hand Bat,Right arm Medium,Batting Allrounder
+ShreyasIyer,Shreyas Iyer,Capitals,Right hand Bat,"Right arm Offbreak, Legbreak Googly",Top order Batter
+RishabhPant,Rishabh Pant,Capitals,Left hand Bat,Not Available,Wicketkeeper Batter
+ShimronHetmyer,Shimron Hetmyer,Capitals,Left hand Bat,Not Available,Top order Batter
+AxarPatel,Axar Patel,Capitals,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder
+AnrichNortje,Anrich Nortje,Capitals,Right hand Bat,Right arm Fast,Bowler
+RavichandranAshwin,Ravichandran Ashwin,Capitals,Right hand Bat,Right arm Offbreak,Bowling Allrounder
+AveshKhan,Avesh Khan,Capitals,Right hand Bat,Right arm Fast medium,Bowler
+KagisoRabada,Kagiso Rabada,Capitals,Left hand Bat,Right arm Fast,Bowler
+DevduttPadikkal,Devdutt Padikkal,RCB,Left hand Bat,Right arm Offbreak,Top order Batter
+ViratKohli,Virat Kohli,RCB,Right hand Bat,Right arm Medium,Top order Batter
+SrikarBharat,Srikar Bharat,RCB,Right hand Bat,Not Available,Wicketkeeper Batter
+GlennMaxwell,Glenn Maxwell,RCB,Right hand Bat,Right arm Offbreak,Batting Allrounder
+ABdeVilliers,ABde Villiers,RCB,Right hand Bat,Right arm Medium,Wicketkeeper Batter
+ShahbazAhmed,Shahbaz Ahmed,RCB,Left hand Bat,Slow Left arm Orthodox,Allrounder
+DanChristian,Dan Christian,RCB,Right hand Bat,Right arm Fast medium,Allrounder
+HarshalPatel,Harshal Patel,RCB,Right hand Bat,Right arm Medium,Bowler
+GeorgeGarton,George Garton,RCB,Left hand Bat,Left arm Fast,Bowling Allrounder
+MohammedSiraj,Mohammed Siraj,RCB,Right hand Bat,Right arm Fast,Bowler
+YuzvendraChahal,Yuzvendra Chahal,RCB,Right hand Bat,Legbreak Googly,Bowler
+TomCurran,Tom Curran,Capitals,Right hand Bat,Right arm Fast medium,Bowling Allrounder
+AmbatiRayudu,Ambati Rayudu,Super Kings,Right hand Bat,Right arm Offbreak,Middle order Batter
+MSDhoni,MSDhoni,Super Kings,Right hand Bat,Right arm Medium,Wicketkeeper Batter
+RipalPatel,Ripal Patel,Capitals,Right hand Bat,Right arm Medium fast,Middle order Batter
+RohitSharma,Rohit Sharma,Mumbai,Right hand Bat,Right arm Offbreak,Top order Batter
+IshanKishan,Ishan Kishan,Mumbai,Left hand Bat,Not Available,Wicketkeeper Batter
+HardikPandya,Hardik Pandya,Mumbai,Right hand Bat,Right arm Medium fast,Allrounder
+KieronPollard,Kieron Pollard,Mumbai,Right hand Bat,Right arm Medium,Batting Allrounder
+SuryakumarYadav,Suryakumar Yadav,Mumbai,Right hand Bat,"Right arm Medium, Right arm Offbreak",Batter
+JamesNeesham,James Neesham,Mumbai,Left hand Bat,Right arm Medium fast,Batting Allrounder
+KrunalPandya,Krunal Pandya,Mumbai,Left hand Bat,Slow Left arm Orthodox,Allrounder
+NathanCoulter-Nile,NathanCoulter-Nile,Mumbai,Right hand Bat,Right arm Fast,Bowling Allrounder
+PiyushChawla,Piyush Chawla,Mumbai,Left hand Bat,Legbreak,Bowling Allrounder
+JaspritBumrah,Jasprit Bumrah,Mumbai,Right hand Bat,Right arm Fast,Bowler
+TrentBoult,Trent Boult,Mumbai,Right hand Bat,Left arm Fast medium,Bowler
+JasonRoy,Jason Roy,Sunrisers,Right hand Bat,Not Available,Opening Batter
+AbhishekSharma,Abhishek Sharma,Sunrisers,Left hand Bat,Slow Left arm Orthodox,Allrounder
+ManishPandey,Manish Pandey,Sunrisers,Right hand Bat,Right arm Medium,Top order Batter
+MohammadNabi,Mohammad Nabi,Sunrisers,Right hand Bat,Right arm Offbreak,Allrounder
+AbdulSamad,Abdul Samad,Sunrisers,Right hand Bat,Legbreak,Batter
+PriyamGarg,Priyam Garg,Sunrisers,Right hand Bat,Right arm Medium,Top order Batter
+JasonHolder,Jason Holder,Sunrisers,Right hand Bat,Right arm Medium fast,Bowling Allrounder
+RashidKhan,Rashid Khan,Sunrisers,Right hand Bat,Legbreak Googly,Bowling Allrounder
+WriddhimanSaha,Wriddhiman Saha,Sunrisers,Right hand Bat,Not Available,Wicketkeeper Batter
+SiddarthKaul,Siddarth Kaul,Sunrisers,Right hand Bat,Right arm Medium,Bowler
+UmranMalik,Umran Malik,Sunrisers,Right hand Bat,Right arm Fast,Bowler
+YashasviJaiswal,Yashasvi Jaiswal,Royals,Left hand Bat,Legbreak,Opening Batter
+LiamLivingstone,Liam Livingstone,Royals,Right hand Bat,"Right arm Offbreak, Legbreak",Batting Allrounder
+SanjuSamson,Sanju Samson,Royals,Right hand Bat,Not Available,Wicketkeeper Batter
+ShivamDube,Shivam Dube,Royals,Left hand Bat,Right arm Medium,Allrounder
+AnujRawat,Anuj Rawat,Royals,Left hand Bat,Not Available,Wicketkeeper Batter
+GlennPhillips,Glenn Phillips,Royals,Right hand Bat,Right arm Offbreak,Allrounder
+RahulTewatia,Rahul Tewatia,Royals,Left hand Bat,Legbreak,Bowling Allrounder
+ChrisMorris,Chris Morris,Royals,Right hand Bat,Right arm Fast medium,Bowling Allrounder
+JaydevUnadkat,Jaydev Unadkat,Royals,Right hand Bat,Left arm Medium,Bowler
+ChetanSakariya,Chetan Sakariya,Royals,Left hand Bat,Left arm Medium fast,Bowler
+MustafizurRahman,Mustafizur Rahman,Royals,Left hand Bat,Left arm Fast medium,Bowler
+KLRahul,KLRahul,Punjab Kings,Right hand Bat,Not Available,Wicketkeeper Batter
+MayankAgarwal,Mayank Agarwal,Punjab Kings,Right hand Bat,Right arm Offbreak,Batter
+SarfarazKhan,Sarfaraz Khan,Punjab Kings,Right hand Bat,Legbreak,Middle order Batter
+MShahrukhKhan,MShahrukh Khan,Punjab Kings,Right hand Bat,Right arm Offbreak,Batter
+AidenMarkram,Aiden Markram,Punjab Kings,Right hand Bat,Right arm Offbreak,Opening Batter
+MoisesHenriques,Moises Henriques,Punjab Kings,Right hand Bat,Right arm Fast medium,Allrounder
+MohammedShami,Mohammed Shami,Punjab Kings,Right hand Bat,Right arm Fast,Bowler
+HarpreetBrar,Harpreet Brar,Punjab Kings,Left hand Bat,Slow Left arm Orthodox,Bowler
+ArshdeepSingh,Arshdeep Singh,Punjab Kings,Left hand Bat,Left arm Medium fast,Bowler
+ChrisJordan,Chris Jordan,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowler
+RaviBishnoi,Ravi Bishnoi,Punjab Kings,Right hand Bat,Legbreak Googly,Bowler
+KaneWilliamson,Kane Williamson,Sunrisers,Right hand Bat,Right arm Offbreak,Top order Batter
+BhuvneshwarKumar,Bhuvneshwar Kumar,Sunrisers,Right hand Bat,Right arm Medium,Bowler
+EvinLewis,Evin Lewis,Royals,Left hand Bat,Not Available,Opening Batter
+DavidMiller,David Miller,Royals,Left hand Bat,Right arm Offbreak,Middle order Batter
+ShreyasGopal,Shreyas Gopal,Royals,Right hand Bat,Legbreak,Allrounder
+KuldipYadav,Kuldip Yadav,Royals,Left hand Bat,Left arm Fast medium,Bowler
+JayantYadav,Jayant Yadav,Mumbai,Right hand Bat,Right arm Offbreak,Bowler
+TimSouthee,Tim Southee,KKR,Right hand Bat,Right arm Medium fast,Bowler
+NicholasPooran,Nicholas Pooran,Punjab Kings,Left hand Bat,Right arm Offbreak,Wicketkeeper Batter
+SureshRaina,Suresh Raina,Super Kings,Left hand Bat,Right arm Offbreak,Middle order Batter
+AkashSingh,Akash Singh,Royals,Right hand Bat,Left arm Medium fast,Bowler
+MayankMarkande,Mayank Markande,Royals,Right hand Bat,Legbreak,Bowler
+SamCurran,Sam Curran,Super Kings,Left hand Bat,Left arm Medium fast,Allrounder
+KMAsif,KMAsif,Super Kings,Right hand Bat,Right arm Medium,Bowler
+QuintondeKock,Quintonde Kock,Mumbai,Left hand Bat,Not Available,Wicketkeeper Batter
+SaurabhTiwary,Saurabh Tiwary,Mumbai,Left hand Bat,Not Available,Top order Batter
+StevenSmith,Steven Smith,Capitals,Right hand Bat,Legbreak Googly,Top order Batter
+TimSeifert,Tim Seifert,KKR,Right hand Bat,Not Available,Wicketkeeper Batter
+DeepakHooda,Deepak Hooda,Punjab Kings,Right hand Bat,Right arm Offbreak,Allrounder
+FabianAllen,Fabian Allen,Punjab Kings,Right hand Bat,Slow Left arm Orthodox,Bowling Allrounder
+NathanEllis,Nathan Ellis,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowler
+SandeepSharma,Sandeep Sharma,Sunrisers,Right hand Bat,Right arm Medium,Bowler
+MahipalLomror,Mahipal Lomror,Royals,Left hand Bat,Slow Left arm Orthodox,Allrounder
+RiyanParag,Riyan Parag,Royals,Right hand Bat,Legbreak,Top order Batter
+KartikTyagi,Kartik Tyagi,Royals,Right hand Bat,Right arm Fast,Bowler
+MandeepSingh,Mandeep Singh,Punjab Kings,Right hand Bat,Right arm Medium,Allrounder
+ChrisGayle,Chris Gayle,Punjab Kings,Left hand Bat,Right arm Offbreak,Allrounder
+RahulChahar,Rahul Chahar,Mumbai,Right hand Bat,Legbreak Googly,Bowler
+LalitYadav,Lalit Yadav,Capitals,Right hand Bat,Right arm Offbreak,Allrounder
+SandeepWarrier,Sandeep Warrier,KKR,Right hand Bat,Right arm Medium,Bowler
+KyleJamieson,Kyle Jamieson,RCB,Right hand Bat,Right arm Fast medium,Bowler
+AdamMilne,Adam Milne,Mumbai,Right hand Bat,Right arm Fast,Bowler
+AndreRussell,Andre Russell,KKR,Right hand Bat,Right arm Fast,Allrounder
+PrasidhKrishna,Prasidh Krishna,KKR,Right hand Bat,Right arm Fast medium,Bowler
+DavidWarner,David Warner,Sunrisers,Left hand Bat,Legbreak,Opening Batter
+KedarJadhav,Kedar Jadhav,Sunrisers,Right hand Bat,Right arm Offbreak,Batting Allrounder
+KhaleelAhmed,Khaleel Ahmed,Sunrisers,Right hand Bat,Left arm Fast medium,Bowler
+TabraizShamsi,Tabraiz Shamsi,Royals,Right hand Bat,Left arm Wrist spin,Bowler
+TimDavid,Tim David,RCB,Right hand Bat,Right arm Offbreak,Middle order Batter
+WaninduHasaranga,Wanindu Hasaranga,RCB,Right hand Bat,Legbreak,Allrounder
+NavdeepSaini,Navdeep Saini,RCB,Right hand Bat,Right arm Fast,Bowler
+IshanPorel,Ishan Porel,Punjab Kings,Right hand Bat,Right arm Medium,Bowler
+AdilRashid,Adil Rashid,Punjab Kings,Right hand Bat,Legbreak,Bowler
+SachinBaby,Sachin Baby,RCB,Left hand Bat,Right arm Offbreak,Batter
+AnmolpreetSingh,Anmolpreet Singh,Mumbai,Right hand Bat,Right arm Offbreak,Batter
+PrabhsimranSingh,Prabhsimran Singh,Punjab Kings,Right hand Bat,Not Available,Wicketkeeper Batter
+DawidMalan,Dawid Malan,Punjab Kings,Left hand Bat,Legbreak,Top order Batter
+IshantSharma,Ishant Sharma,Capitals,Right hand Bat,Right arm Fast medium,Bowler
+RileyMeredith,Riley Meredith,Punjab Kings,Right hand Bat,Right arm Fast,Bowler
+JosButtler,Jos Buttler,Royals,Right hand Bat,Not Available,Wicketkeeper Batter
+JonnyBairstow,Jonny Bairstow,Sunrisers,Right hand Bat,Right arm Medium,Wicketkeeper Batter
+VijayShankar,Vijay Shankar,Sunrisers,Right hand Bat,Right arm Medium,Allrounder
+DhawalKulkarni,Dhawal Kulkarni,Mumbai,Right hand Bat,Right arm Medium,Bowler
+LungiNgidi,Lungi Ngidi,Super Kings,Right hand Bat,Right arm Fast medium,Bowler
+RajatPatidar,Rajat Patidar,RCB,Right hand Bat,Right arm Offbreak,Top order Batter
+DanielSams,Daniel Sams,RCB,Right hand Bat,Left arm Fast medium,Allrounder
+PatCummins,Pat Cummins,KKR,Right hand Bat,Right arm Fast,Bowler
+JagadeeshaSuchith,Jagadeesha Suchith,Sunrisers,Left hand Bat,Slow Left arm Orthodox,Bowler
+WashingtonSundar,Washington Sundar,RCB,Left hand Bat,Right arm Offbreak,Bowling Allrounder
+AmitMishra,Amit Mishra,Capitals,Right hand Bat,Legbreak,Bowler
+ImranTahir,Imran Tahir,Super Kings,Right hand Bat,Legbreak Googly,Bowler
+MananVohra,Manan Vohra,Royals,Right hand Bat,Right arm Medium,Opening Batter
+KaneRichardson,Kane Richardson,RCB,Right hand Bat,Right arm Fast medium,Bowler
+KamleshNagarkoti,Kamlesh Nagarkoti,KKR,Right hand Bat,Right arm Fast,Bowler
+MuruganAshwin,Murugan Ashwin,Punjab Kings,Right hand Bat,Legbreak Googly,Bowler
+ChrisWoakes,Chris Woakes,Capitals,Right hand Bat,Right arm Fast medium,Allrounder
+LukmanMeriwala,Lukman Meriwala,Capitals,Left hand Bat,Left arm Fast medium,Bowler
+JalajSaxena,Jalaj Saxena,Punjab Kings,Right hand Bat,"Right arm Offbreak, Legbreak Googly",Allrounder
+JhyeRichardson,Jhye Richardson,Punjab Kings,Right hand Bat,Right arm Fast,Bowler
+HarbhajanSingh,Harbhajan Singh,KKR,Right hand Bat,Right arm Offbreak,Bowler
+ViratSingh,Virat Singh,Sunrisers,Left hand Bat,Legbreak Googly,Top order Batter
+MujeebUrRahman,MujeebUrRahman,Sunrisers,Right hand Bat,Right arm Offbreak,Bowler
+AjinkyaRahane,Ajinkya Rahane,Capitals,Right hand Bat,Right arm Medium,Top order Batter
+ShahbazNadeem,Shahbaz Nadeem,Sunrisers,Right hand Bat,Slow Left arm Orthodox,Bowler
+TNatarajan,TNatarajan,Sunrisers,Left hand Bat,Left arm Medium,Bowler
+MarcoJansen,Marco Jansen,Mumbai,Right hand Bat,Left arm Medium fast,Bowling Allrounder
+BenStokes,Ben Stokes,Royals,Left hand Bat,Right arm Fast medium,Allrounder
+ChrisLynn,Chris Lynn,Mumbai,Right hand Bat,Slow Left arm Orthodox,Batter
+ObedMcCoy,ObedMcCoy,Royals,Left hand Bat,Left arm Fast medium,Bowler
+MatthewWade,Matthew Wade,Titans,Left hand Bat,Right arm Medium,Wicketkeeper Batter
+YashDayal,Yash Dayal,Titans,Right hand Bat,Left arm Medium fast,Bowler
+SaiKishore,Sai Kishore,Titans,Left hand Bat,Slow Left arm Orthodox,Bowler
+DushmanthaChameera,Dushmantha Chameera,Super Giants,Right hand Bat,Right arm Fast,Bowler
+MohsinKhan,Mohsin Khan,Super Giants,Left hand Bat,Left arm Medium fast,Bowler
+AlzarriJoseph,Alzarri Joseph,Titans,Right hand Bat,Right arm Fast,Bowler
+RomarioShepherd,Romario Shepherd,Sunrisers,Right hand Bat,Right arm Fast medium,Bowling Allrounder
+JiteshSharma,Jitesh Sharma,Punjab Kings,Right hand Bat,Not Available,Wicketkeeper Batter
+PrerakMankad,Prerak Mankad,Punjab Kings,Right hand Bat,Right arm Medium,Allrounder
+FazalhaqFarooqi,Fazalhaq Farooqi,Sunrisers,Right hand Bat,Left arm Fast medium,Bowler
+MitchellMarsh,Mitchell Marsh,Capitals,Right hand Bat,Right arm Medium,Allrounder
+RovmanPowell,Rovman Powell,Capitals,Right hand Bat,Right arm Medium fast,Middle order Batter
+KuldeepYadav,Kuldeep Yadav,Capitals,Left hand Bat,Left arm Wrist spin,Bowler
+DewaldBrevis,Dewald Brevis,Mumbai,Right hand Bat,Legbreak,Batting Allrounder
+TilakVarma,Tilak Varma,Mumbai,Left hand Bat,Right arm Offbreak,Batting Allrounder
+RamandeepSingh,Ramandeep Singh,Mumbai,Right hand Bat,Right arm Medium,Middle order Batter
+HrithikShokeen,Hrithik Shokeen,Mumbai,Right hand Bat,Right arm Offbreak,Bowler
+DevonConway,Devon Conway,Super Kings,Left hand Bat,Right arm Medium,Wicketkeeper Batter
+NarayanJagadeesan,Narayan Jagadeesan,Super Kings,Right hand Bat,Not Available,Opening Batter
+MitchellSantner,Mitchell Santner,Super Kings,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder
+SimarjeetSingh,Simarjeet Singh,Super Kings,Right hand Bat,Right arm Medium fast,Bowler
+MukeshChoudhary,Mukesh Choudhary,Super Kings,Left hand Bat,Left arm Medium,Bowler
+MatheeshaPathirana,Matheesha Pathirana,Super Kings,Right hand Bat,Right arm Fast,Bowler
+PrashantSolanki,Prashant Solanki,Super Kings,Right hand Bat,Legbreak,Bowler
+AbhijeetTomar,Abhijeet Tomar,KKR,Right hand Bat,Right arm Offbreak,Opening Batter
+SamBillings,Sam Billings,KKR,Right hand Bat,Not Available,Wicketkeeper Batter
+RinkuSingh,Rinku Singh,KKR,Left hand Bat,Right arm Offbreak,Middle order Batter
+UmeshYadav,Umesh Yadav,KKR,Right hand Bat,Right arm Fast,Bowler
+KrishnappaGowtham,Krishnappa Gowtham,Super Giants,Right hand Bat,Right arm Offbreak,Bowling Allrounder
+TristanStubbs,Tristan Stubbs,Mumbai,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter
+SanjayYadav,Sanjay Yadav,Mumbai,Left hand Bat,Slow Left arm Orthodox,Allrounder
+BhanukaRajapaksa,Bhanuka Rajapaksa,Punjab Kings,Left hand Bat,Right arm Medium,Top order Batter
+RishiDhawan,Rishi Dhawan,Punjab Kings,Right hand Bat,Right arm Medium fast,Allrounder
+AyushBadoni,Ayush Badoni,Super Giants,Right hand Bat,Right arm Offbreak,Batter
+ShashankSingh,Shashank Singh,Sunrisers,Right hand Bat,"Right arm Medium, Right arm Offbreak",Batting Allrounder
+MaheeshTheekshana,Maheesh Theekshana,Super Kings,Right hand Bat,Right arm Offbreak,Bowler
+KumarKartikeya,Kumar Kartikeya,Mumbai,Right hand Bat,"Slow Left arm Orthodox, Left arm Wrist spin",Bowler
+RassievanderDussen,Rassievander Dussen,Royals,Right hand Bat,Legbreak,Top order Batter
+KuldeepSen,Kuldeep Sen,Royals,Right hand Bat,Right arm Fast,Bowler
+KaranSharma,Karan Sharma,Super Giants,Right hand Bat,Right arm Offbreak,Allrounder
+SheldonJackson,Sheldon Jackson,KKR,Right hand Bat,Not Available,Wicketkeeper Batter
+BabaIndrajith,Baba Indrajith,KKR,Right hand Bat,Legbreak Googly,Top order Batter
+AaronFinch,Aaron Finch,KKR,Right hand Bat,Slow Left arm Orthodox,Top order Batter
+AnukulRoy,Anukul Roy,KKR,Left hand Bat,Slow Left arm Orthodox,Allrounder
+HarshitRana,Harshit Rana,KKR,Right hand Bat,Right arm Fast,Bowler
+SaiSudharsan,Sai Sudharsan,Titans,Left hand Bat,Legbreak,Top order Batter
+PradeepSangwan,Pradeep Sangwan,Titans,Right hand Bat,Left arm Medium,Bowler
+SeanAbbott,Sean Abbott,Sunrisers,Right hand Bat,Right arm Fast medium,Bowling Allrounder
+DwainePretorius,Dwaine Pretorius,Super Kings,Right hand Bat,Right arm Medium fast,Bowling Allrounder
+KarunNair,Karun Nair,Royals,Right hand Bat,Right arm Offbreak,Top order Batter
+DarylMitchell,Daryl Mitchell,Royals,Right hand Bat,Right arm Medium,Batting Allrounder
+AbhinavManohar,Abhinav Manohar,Titans,Right hand Bat,Legbreak Googly,Batting Allrounder
+SuyashPrabhudessai,Suyash Prabhudessai,RCB,Right hand Bat,Right arm Medium,Batting Allrounder
+VaibhavArora,Vaibhav Arora,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowler
+OdeanSmith,Odean Smith,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowling Allrounder
+TymalMills,Tymal Mills,Mumbai,Right hand Bat,Left arm Fast,Bowler
+AmanHakimKhan,AmanHakimKhan,KKR,Right hand Bat,Right arm Medium,Allrounder
+BasilThampi,Basil Thampi,Mumbai,Right hand Bat,Right arm Fast medium,Bowler
+AkashDeep,Akash Deep,RCB,Right hand Bat,Right arm Fast medium,Bowling Allrounder
+DarshanNalkande,Darshan Nalkande,Titans,Right hand Bat,Right arm Fast medium,Bowler
+RasikhSalam,Rasikh Salam,KKR,Right hand Bat,Right arm Medium,Bowler
+DavidWilley,David Willey,RCB,Left hand Bat,Left arm Fast medium,Bowling Allrounder
+AndrewTye,Andrew Tye,Super Giants,Right hand Bat,Right arm Medium fast,Bowler
+SherfaneRutherford,Sherfane Rutherford,RCB,Left hand Bat,Right arm Fast medium,Middle order Batter
+VarunAaron,Varun Aaron,Titans,Right hand Bat,Right arm Fast,Bowler
+RajBawa,Raj Bawa,Punjab Kings,Left hand Bat,Right arm Medium fast,Allrounder
+TusharDeshpande,Tushar Deshpande,Super Kings,Left hand Bat,Right arm Medium,Bowler
+NoorAhmad,Noor Ahmad,Titans,Right hand Bat,Left arm Wrist spin,Bowler
+JoshLittle,Josh Little,Titans,Right hand Bat,Left arm Fast medium,Bowler
+MohitSharma,Mohit Sharma,Titans,Right hand Bat,Right arm Medium,Bowler
+NehalWadhera,Nehal Wadhera,Mumbai,Left hand Bat,Legbreak,Top order Batter
+CameronGreen,Cameron Green,Mumbai,Right hand Bat,Right arm Fast medium,Batting Allrounder
+VishnuVinod,Vishnu Vinod,Mumbai,Right hand Bat,Not Available,Wicketkeeper Batter
+JasonBehrendorff,Jason Behrendorff,Mumbai,Right hand Bat,Left arm Fast medium,Bowler
+AkashMadhwal,Akash Madhwal,Mumbai,Right hand Bat,Right arm Medium fast,Bowler
+KyleMayers,Kyle Mayers,Super Giants,Left hand Bat,Right arm Medium,Batting Allrounder
+Naveen-ul-Haq,Naveen-ul-Haq,Super Giants,Right hand Bat,Right arm Medium fast,Bowler
+YashThakur,Yash Thakur,Super Giants,Right hand Bat,Right arm Fast medium,Bowler
+DasunShanaka,Dasun Shanaka,Titans,Right hand Bat,Right arm Medium,Allrounder
+MichaelBracewell,Michael Bracewell,RCB,Left hand Bat,Right arm Offbreak,Batting Allrounder
+WayneParnell,Wayne Parnell,RCB,Left hand Bat,Left arm Medium fast,Bowler
+VijaykumarVyshak,Vijaykumar Vyshak,RCB,Right hand Bat,Right arm Medium,Bowler
+HimanshuSharma,Himanshu Sharma,RCB,Right hand Bat,Legbreak,Bowler
+VivrantSharma,Vivrant Sharma,Sunrisers,Left hand Bat,Legbreak Googly,Allrounder
+HeinrichKlaasen,Heinrich Klaasen,Sunrisers,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter
+HarryBrook,Harry Brook,Sunrisers,Right hand Bat,Right arm Medium,Batter
+SanvirSingh,Sanvir Singh,Sunrisers,Right hand Bat,Right arm Medium,Allrounder
+NitishKumarReddy,NitishKumarReddy,Sunrisers,Right hand Bat,Right arm Medium fast,Batting Allrounder
+MayankDagar,Mayank Dagar,Sunrisers,Right hand Bat,Slow Left arm Orthodox,Bowler
+RahmanullahGurbaz,Rahmanullah Gurbaz,KKR,Right hand Bat,Not Available,Wicketkeeper Batter
+SuyashSharma,Suyash Sharma,KKR,Right hand Bat,Legbreak Googly,Bowler
+PhilSalt,Phil Salt,Capitals,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter
+RileeRossouw,Rilee Rossouw,Capitals,Left hand Bat,Right arm Offbreak,Top order Batter
+YashDhull,Yash Dhull,Capitals,Right hand Bat,Right arm Offbreak,Top order Batter
+AtharvaTaide,Atharva Taide,Punjab Kings,Left hand Bat,Slow Left arm Orthodox,Batting Allrounder
+DhruvJurel,Dhruv Jurel,Royals,Right hand Bat,Not Available,Wicketkeeper Batter
+AdamZampa,Adam Zampa,Royals,Right hand Bat,Legbreak Googly,Bowler
+KarnSharma,Karn Sharma,RCB,Left hand Bat,Legbreak Googly,Bowler
+MukeshKumar,Mukesh Kumar,Capitals,Right hand Bat,Right arm Medium,Bowler
+SwapnilSingh,Swapnil Singh,Super Giants,Right hand Bat,Slow Left arm Orthodox,Bowler
+JoeRoot,Joe Root,Royals,Right hand Bat,"Right arm Offbreak, Legbreak",Top order Batter
+SikandarRaza,Sikandar Raza,Punjab Kings,Right hand Bat,Right arm Offbreak,Batting Allrounder
+PraveenDubey,Praveen Dubey,Capitals,Right hand Bat,Legbreak Googly,Bowler
+YudhvirSingh,Yudhvir Singh,Super Giants,Right hand Bat,Right arm Medium fast,Bowler
+ArshadKhan,Arshad Khan,Mumbai,Left hand Bat,Left arm Medium,Bowler
+JofraArcher,Jofra Archer,Mumbai,Right hand Bat,Right arm Fast,Bowler
+RaghavGoyal,Raghav Goyal,Mumbai,Left hand Bat,Left arm Wrist spin,Bowler
+MatthewShort,Matthew Short,Punjab Kings,Right hand Bat,Right arm Offbreak,Top order Batter
+AkealHosein,Akeal Hosein,Sunrisers,Left hand Bat,Slow Left arm Orthodox,Bowler
+DavidWiese,David Wiese,KKR,Right hand Bat,Right arm Medium fast,Allrounder
+GurnoorBrar,Gurnoor Brar,Punjab Kings,Left hand Bat,Right arm Fast,Bowler
+ArjunTendulkar,Arjun Tendulkar,Mumbai,Left hand Bat,Left arm Medium fast,Bowler
+KulwantKhejroliya,Kulwant Khejroliya,KKR,Left hand Bat,Left arm Medium fast,Bowler
+AbdulBasith,Abdul Basith,Royals,Right hand Bat,Right arm Offbreak,Allrounder
+HarpreetSingh,Harpreet Singh,Punjab Kings,Left hand Bat,Right arm Medium,Batter
+LittonDas,Litton Das,KKR,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter
+DuanJansen,Duan Jansen,Mumbai,Right hand Bat,Left arm Fast,Bowler
+MarkWood,Mark Wood,Super Giants,Right hand Bat,Right arm Fast,Bowler
+AbishekPorel,Abishek Porel,Capitals,Left hand Bat,Not Available,Wicketkeeper Batter
+SisandaMagala,Sisanda Magala,Super Kings,Right hand Bat,Right arm Fast medium,Bowler
+MohitRathee,Mohit Rathee,Punjab Kings,Right hand Bat,Legbreak,Allrounder
+RajvardhanHangargekar,Rajvardhan Hangargekar,Super Kings,Right hand Bat,Right arm Fast medium,Bowling Allrounder
+ReeceTopley,Reece Topley,RCB,Right hand Bat,Left arm Fast medium,Bowler
